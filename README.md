@@ -2,6 +2,10 @@
 
 > A precision workspace for modern revenue teams.
 
+## Live demo
+
+**[Open Asteris →](https://vt6b5y6tv9-design.github.io/my_pro/)**
+
 Asteris is a portfolio-grade React admin experience inspired by the restraint of Vercel, the information density of Linear, and the data craft of Stripe—translated into an original product language rather than a template remix.
 
 ## Preview
