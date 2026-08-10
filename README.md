@@ -1,12 +1,12 @@
 # ✦ Asteris
 
-> A precision workspace for modern revenue teams.
+> A calm, intelligent personal finance workspace.
 
 ## Live demo
 
 **[Open Asteris →](https://vt6b5y6tv9-design.github.io/my_pro/)**
 
-Asteris is a portfolio-grade React admin experience inspired by the restraint of Vercel, the information density of Linear, and the data craft of Stripe—translated into an original product language rather than a template remix.
+Asteris is a portfolio-grade personal finance experience inspired by the restraint of Vercel, the information density of Linear, and the data craft of Stripe—translated into an original product language rather than a template remix.
 
 ## Preview
 
@@ -17,10 +17,13 @@ Asteris is a portfolio-grade React admin experience inspired by the restraint of
 ## Highlights
 
 - Typography-first hierarchy with quiet borders and meaningful color
-- Animated executive overview and responsive revenue chart
-- TanStack-powered searchable, sortable customer table
+- Net worth, cash flow, spending, and credit utilization overview
+- Connected account aggregation across checking, savings, cards, and investments
+- TanStack-powered searchable and sortable transaction ledger
+- Monthly budgets, daily allowance, and savings goals
+- Transaction details with AI-powered categorization
 - Global `⌘ K` / `Ctrl K` command palette
-- Interactive customer detail drawer and Asteris AI insights
+- Interactive transaction drawer and personalized Asteris AI forecasts
 - Token-driven light and dark themes
 - Feature-based architecture and reduced-motion support
 
